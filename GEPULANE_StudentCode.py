@@ -1,4 +1,4 @@
-#Giles Ali Gepulane        IT 101
+#Giles Ali Gepulane
 name = input("Enter your username: ")
 section = input("Enter your section: ")
 
